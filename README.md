@@ -24,7 +24,6 @@ flask-csv-manager/
 ---
 
 ##  Installation & Setup
-
 1. Clone the repository:  
    git clone https://github.com/your-username/flask-csv-manager.git
    cd flask-csv-manager
