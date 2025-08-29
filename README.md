@@ -44,6 +44,9 @@ flask-csv-manager/
 ```http://127.0.0.1:5000/```  
 
 ---
+## Fill the HTML form so that data can be stored in csv file
+
+---
 
 ## Batch Automation
 
